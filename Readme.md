@@ -1,4 +1,4 @@
-### Conference of Physics and Machine Learning
+### Conferences of Physics and Machine Learning
 
 | Name                                     | Location                              | Time                             |
 | :--------------------------------------- | ------------------------------------- | :------------------------------- |
